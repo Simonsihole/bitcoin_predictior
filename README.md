@@ -1,0 +1,2 @@
+# bitcoin_predictior
+FASTAPI USING LSTM TO PREDICT BITCOIN
